@@ -1,5 +1,4 @@
-# on-the-translation-from-natural-language-to-formal-language-via-llm-prompting
-## Guidline on how the approach in ./full-approach works.
+# Guidline on how the approach in ./full-approach works.
 ### 1- The first step is to set the number of examples to be translated in the nl-to-fol.py script.
 
 ### 2- Run the nl-to-fol.py script.
